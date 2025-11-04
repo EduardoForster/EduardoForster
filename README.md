@@ -11,7 +11,7 @@
 </div>
 
 ## 🧠 Sobre mim
-- 💡 Entusiasta na area de programação.  
+- 💡  Disposto a aprender mais.  
 - ⚙️ Trabalhos com **C++**,**C#**, **Python** e **STMCube**.  
 - 🌱 Aberto a contribuições e colaborações.
 
@@ -33,8 +33,7 @@
 
 ## 📂 Projetos em destaque
 
-- 🐱‍👤  **EKKO** - DashBoard (BackEnd + FrontEnd).
-- 👤  **EKKO** - Simulação Unity 3D.
+- 🐱‍👤  **EKKO** - DashBoard (BackEnd + FrontEnd) + Simulação Unity 3D. (Premiado como "Melhor Projeto de Desenvolvimento de Software" pelo Inatel. 
 
 ---
 
@@ -49,7 +48,9 @@
 ---
 
 ## 📫 Contato
+
 📧 eduardoforsternbc@gmail.com 
+
 💼 https://linkedin.com/in/eduardo-forster
 
 <div align="center">
