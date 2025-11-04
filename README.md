@@ -33,7 +33,7 @@
 
 ## 📂 Projetos em destaque
 
-- 🐱‍👤  **EKKO** - DashBoard (BackEnd + FrontEnd) + Simulação Unity 3D. (Premiado como "Melhor Projeto de Desenvolvimento de Software" pelo Inatel. 
+- 🐱‍👤  **EKKO** - DashBoard (BackEnd + FrontEnd) + Simulação Unity 3D. 
 
 ---
 
