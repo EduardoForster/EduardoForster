@@ -20,8 +20,11 @@
 ## 🧰 Tecnologias
 <div align="center">
 ![C](https://img.shields.io/badge/C-003B57?style=for-the-badge&logo=c&logoColor=white)
+
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+
 ![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)
+
 ![STM32](https://img.shields.io/badge/STM32-1E88E5?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 </div>
 
