@@ -11,8 +11,8 @@
 </div>
 
 ## 🧠 Sobre mim
-- 💡 Apaixonado por eletrônica e programação.  
-- ⚙️ Trabalhos com **C**, **Python**, **MQTT** e displays ST7735.  
+- 💡 Entusiasta na area de programação.  
+- ⚙️ Trabalhos com **C++**,**C#**, **Python** e **STMCube**.  
 - 🌱 Aberto a contribuições e colaborações.
 
 ---
@@ -32,24 +32,25 @@
 ---
 
 ## 📂 Projetos em destaque
-- 🚀 **Suprimentos para Refugiados** — simulação de lançamento de pacotes (STM32).  
-- ✈️ **Simulador de lançamento de cargas** — STM32F103 + ST7735.  
-- 🌐 **ESP32 + Django (MQTT)** — integração hardware-backend.
+
+- 🐱‍👤 **EKKO** - DashBoard (BackEnd + FrontEnd).
 
 ---
 
 ## 📊 Estatísticas
 <div align="center">
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-AQUI&show_icons=true&theme=tokyonight)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-AQUI&layout=compact&theme=tokyonight)
 </div>
 
 ---
 
 ## 📫 Contato
-📧 eduardo@example.com  
+📧 eduardoforsternbc@gmail.com 
 💼 https://linkedin.com/in/eduardo-forster
 
 <div align="center">
-⭐ _“A melhor forma de aprender é construindo.”_  
+⭐ _“O foco é sempre o topo.”_  
 </div>
