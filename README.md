@@ -33,16 +33,17 @@
 
 ## 📂 Projetos em destaque
 
-- 🐱‍👤 **EKKO** - DashBoard (BackEnd + FrontEnd).
+- 🐱‍👤  **EKKO** - DashBoard (BackEnd + FrontEnd).
+- 👤  **EKKO** - Simulação Unity 3D.
 
 ---
 
 ## 📊 Estatísticas
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-AQUI&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=EduardoForsterI&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-AQUI&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoForster&layout=compact&theme=tokyonight)
 </div>
 
 ---
