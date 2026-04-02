@@ -49,7 +49,7 @@
 
 📧 eduardoforsternbc@gmail.com 
 
-💼 https://linkedin.com/in/eduardo-forster
+💼 [https://linkedin.com/in/eduardo-forster](https://www.linkedin.com/in/eduardo-forster-b718a6397/)
 
 <div align="center">
 ⭐ _“O foco é sempre o topo.”_  
